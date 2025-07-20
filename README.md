@@ -30,3 +30,6 @@ The main goal was to analyze various aspects of the coffee shop's sales, such as
 
 ## ✅ Outcome
 Created an interactive **Power BI dashboard** that allowed users to explore sales performance visually. The dashboard enabled quick access to key metrics, trends, and actionable business insights to support strategic decisions.
+
+## Dashboard
+- https://github.com/Krishnagodd/Coffee-Shop-Sales-Analysis-Project/blob/main/coffee%20shop%20dashboard%20png.jpg
