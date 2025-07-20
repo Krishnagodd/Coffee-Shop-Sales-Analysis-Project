@@ -5,6 +5,9 @@ The **Coffee Shop Sales Analysis Project** is a business intelligence initiative
 ## 🛠️ Tools Used
 - **Power BI** – for data visualization and dashboard creation
 
+## Dataset used
+- https://drive.google.com/file/d/1YqP5Na7_o2xBwsFcf-0NTK31u5_EpxKC/view
+
 ## 🎯 Project Objective
 The main goal was to analyze various aspects of the coffee shop's sales, such as:
 - Which products sell the most?
