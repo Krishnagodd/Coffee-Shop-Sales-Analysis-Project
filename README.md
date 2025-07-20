@@ -15,6 +15,13 @@ The main goal was to analyze various aspects of the coffee shop's sales, such as
 - Which branches or locations perform better?
 - How seasonal trends affect sales?
 
+## 🧾 How to Use
+
+1. Open Power BI Desktop
+2. Import the provided dataset
+3. Open the `.pbix` dashboard file (if you’re uploading it)
+4. Interact with slicers and visuals to explore data
+
 ## 📊 Key Visuals and Features
 - **Pie Charts**: Category-wise sales distribution (e.g., Coffee, Tea, Pastries)
 - **Bar Graphs**: Sales by date, product, and store location
@@ -33,3 +40,16 @@ Created an interactive **Power BI dashboard** that allowed users to explore sale
 
 ## Dashboard
 - https://github.com/Krishnagodd/Coffee-Shop-Sales-Analysis-Project/blob/main/coffee%20shop%20dashboard%20png.jpg
+
+## 📜 License
+
+This project is for learning purposes and is not intended for commercial use.  
+Feel free to fork and experiment.
+
+## 🙋‍♂️ Author
+
+- **Name:** YENUGANTI HARI KRISHNA  
+- **Role:** Data Analyst & Student  
+- **Platform:** [Unified Mentor]  
+- **LinkedIn:** *https://www.linkedin.com/in/yenuganti-hari-krishna-95496829b*
+
